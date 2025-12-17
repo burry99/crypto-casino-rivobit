@@ -13,7 +13,7 @@ RivoBIT Version 7.14 [Comprehensive Backend Video]
 
 🔹 Technology Stack
 
-Frontend: Vue CLI + Vue 3
+Frontend: Vue CLI + Vue 3 
 
 Backend: Node.js
 
